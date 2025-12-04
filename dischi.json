@@ -1,0 +1,44 @@
+[
+    {
+        "titolo": "Brivido",
+        "artista": "Guè Pequeno (feat. Sfera Ebbasta)",
+        "url": "https://www.youtube.com/watch?v=4yxM5qP5S5A",
+        "anno": "2017",
+        "genere": "Rap / Trap"
+    },
+    {
+        "titolo": "Lamborghini",
+        "artista": "Guè Pequeno",
+        "url": "https://www.youtube.com/watch?v=6JxO7L6wK1g",
+        "anno": "2015",
+        "genere": "Rap"
+    },
+    {
+        "titolo": "Un'Emozione Per Sempre",
+        "artista": "Eros Ramazzotti",
+        "url": "https://www.youtube.com/watch?v=fT1mJ1P0C1E",
+        "anno": "2003",
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Più Bella Cosa",
+        "artista": "Eros Ramazzotti",
+        "url": "https://www.youtube.com/watch?v=tdB0lJm2J5E",
+        "anno": "1996",
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Rockstar",
+        "artista": "Sfera Ebbasta",
+        "url": "https://www.youtube.com/watch?v=JhZl0JnpNkM",
+        "anno": "2018",
+        "genere": "Trap"
+    },
+    {
+        "titolo": "Tesla",
+        "artista": "Capo Plaza (feat. Sfera Ebbasta e Drefgold)",
+        "url": "https://www.youtube.com/watch?v=g_9xZ8Q0N5Q",
+        "anno": "2018",
+        "genere": "Trap"
+    }
+]
